@@ -1,0 +1,25 @@
+{
+  "name": "friederikepilkenroth",
+  "version": "1.0.0",
+  "description": "A website for friedrikepilkenroth built with express-react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drilichili/friederikepilkenroth.git"
+  },
+  "author": "Drilon Berisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drilichili/friederikepilkenroth/issues"
+  },
+  "homepage": "https://github.com/drilichili/friederikepilkenroth#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
